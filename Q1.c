@@ -1,4 +1,5 @@
 //Structure
+//Changing for git test in second folder
 #include <stdio.h>
 #include <string.h>
 
